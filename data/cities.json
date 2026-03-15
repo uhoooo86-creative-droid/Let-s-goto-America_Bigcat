@@ -1,0 +1,304 @@
+{
+  "cities": [
+    {
+      "city": "New York",
+      "theme": "Landmarks and City Adventure",
+      "description": "Meet the most famous landmarks in a bright and busy city.",
+      "landmarks": [
+        {
+          "name": "Statue of Liberty",
+          "story": "Big Cat arrives by boat and sees a giant green lady holding a torch, as if she is saying, 'Welcome to New York!'",
+          "mission": "Raise your hand like a torch and say, 'Welcome!'",
+          "words": ["torch", "statue", "boat", "welcome"]
+        },
+        {
+          "name": "Empire State Building",
+          "story": "Big Cat looks up and up and up. The building is so tall it almost tickles the clouds.",
+          "mission": "Stand tall and stretch up high.",
+          "words": ["tall", "building", "sky", "high"]
+        },
+        {
+          "name": "Times Square",
+          "story": "At night, Big Cat sees giant screens and sparkling lights everywhere. The city feels bright and awake.",
+          "mission": "Twinkle your fingers like city lights.",
+          "words": ["light", "bright", "city", "night"]
+        }
+      ]
+    },
+    {
+      "city": "Texas",
+      "theme": "Cowboys and Wide Open Land",
+      "description": "Explore a big state with cowboys, boots, and ranch adventures.",
+      "landmarks": [
+        {
+          "name": "Cowboy Ranch",
+          "story": "Big Cat visits a ranch and sees cowboys riding horses across the dusty land.",
+          "mission": "Pretend to ride a horse and say, 'Yeehaw!'",
+          "words": ["cowboy", "horse", "ranch", "hat"]
+        },
+        {
+          "name": "Cactus Desert",
+          "story": "In the hot Texas sun, Big Cat finds tall cacti standing proudly like green guards.",
+          "mission": "Freeze like a cactus.",
+          "words": ["cactus", "hot", "desert", "green"]
+        },
+        {
+          "name": "Texas Star",
+          "story": "Big Cat learns that Texas is called the Lone Star State and finds stars everywhere.",
+          "mission": "Make a big star shape with your arms and legs.",
+          "words": ["star", "state", "big", "shine"]
+        }
+      ]
+    },
+    {
+      "city": "Boston / Harvard",
+      "theme": "Learning and Discovery",
+      "description": "Walk through a famous school town full of books, ideas, and clever questions.",
+      "landmarks": [
+        {
+          "name": "Harvard Yard",
+          "story": "Big Cat tiptoes through a beautiful campus where students read, think, and dream big.",
+          "mission": "Open an imaginary book and say, 'Let’s learn!'",
+          "words": ["school", "book", "student", "learn"]
+        },
+        {
+          "name": "Library",
+          "story": "Inside the library, Big Cat finds rows and rows of books waiting to share their secrets.",
+          "mission": "Whisper, 'Shhh,' and turn pretend pages.",
+          "words": ["library", "read", "quiet", "book"]
+        },
+        {
+          "name": "Science Lab",
+          "story": "Big Cat becomes a little scientist and asks, 'What happens next?'",
+          "mission": "Put on pretend goggles and say, 'Let’s discover!'",
+          "words": ["science", "experiment", "question", "discover"]
+        }
+      ]
+    },
+    {
+      "city": "Florida",
+      "theme": "Sunshine and Theme Park Fun",
+      "description": "Enjoy sunny weather, exciting rides, and magical fun.",
+      "landmarks": [
+        {
+          "name": "Disney World",
+          "story": "Big Cat enters a magical park full of castles, songs, and smiling characters.",
+          "mission": "Wave like you are in a parade.",
+          "words": ["castle", "magic", "ride", "fun"]
+        },
+        {
+          "name": "Beach",
+          "story": "Big Cat runs on the warm sand and splashes near the shiny blue sea.",
+          "mission": "Pretend to swim and splash.",
+          "words": ["beach", "sand", "sea", "sun"]
+        },
+        {
+          "name": "Orange Grove",
+          "story": "Big Cat picks juicy oranges and smells the sweet sunshine in the air.",
+          "mission": "Pretend to pick an orange from a tree.",
+          "words": ["orange", "tree", "sweet", "fruit"]
+        }
+      ]
+    },
+    {
+      "city": "San Francisco",
+      "theme": "Bridges, Hills, and the Sea",
+      "description": "Discover a city with steep roads, a famous bridge, and ocean views.",
+      "landmarks": [
+        {
+          "name": "Golden Gate Bridge",
+          "story": "Big Cat sees a giant red bridge stretching across the water like a long ribbon.",
+          "mission": "Make a bridge shape with your arms.",
+          "words": ["bridge", "red", "water", "long"]
+        },
+        {
+          "name": "Cable Car",
+          "story": "Big Cat hops on a cable car and rattles up and down the steep streets.",
+          "mission": "Rock side to side like a moving cable car.",
+          "words": ["car", "hill", "ride", "street"]
+        },
+        {
+          "name": "Fisherman’s Wharf",
+          "story": "At the harbor, Big Cat hears sea lions barking and smells salty ocean air.",
+          "mission": "Clap like sea lion flippers.",
+          "words": ["sea", "harbor", "fish", "lion"]
+        }
+      ]
+    },
+    {
+      "city": "Iowa",
+      "theme": "Farms and Fresh Food",
+      "description": "Visit fields, farms, and delicious food from the countryside.",
+      "landmarks": [
+        {
+          "name": "Corn Field",
+          "story": "Big Cat walks through tall corn that swishes and whispers in the wind.",
+          "mission": "Sway your body like corn in the breeze.",
+          "words": ["corn", "farm", "field", "yellow"]
+        },
+        {
+          "name": "Barn",
+          "story": "Big Cat opens the barn door and finds hay, animals, and busy farm sounds.",
+          "mission": "Moo, oink, and cluck like farm animals.",
+          "words": ["barn", "cow", "pig", "farm"]
+        },
+        {
+          "name": "Ice Cream Factory",
+          "story": "After the farm visit, Big Cat enjoys a cold, sweet ice cream treat.",
+          "mission": "Pretend to lick an ice cream cone.",
+          "words": ["ice cream", "milk", "sweet", "cold"]
+        }
+      ]
+    },
+    {
+      "city": "New Orleans",
+      "theme": "Jazz and Celebration",
+      "description": "Feel the rhythm of a musical city full of color and joy.",
+      "landmarks": [
+        {
+          "name": "Jazz Street",
+          "story": "Big Cat hears trumpets, drums, and happy music filling the air.",
+          "mission": "March and clap to a jazz beat.",
+          "words": ["jazz", "music", "drum", "trumpet"]
+        },
+        {
+          "name": "French Quarter",
+          "story": "Big Cat walks past colorful balconies and lively old streets.",
+          "mission": "Wave your arms like dancing ribbons.",
+          "words": ["street", "colorful", "dance", "city"]
+        },
+        {
+          "name": "Alligator Swamp",
+          "story": "In the quiet swamp, Big Cat spots an alligator gliding slowly through the water.",
+          "mission": "Creep slowly like an alligator.",
+          "words": ["alligator", "swamp", "water", "slow"]
+        }
+      ]
+    },
+    {
+      "city": "Washington D.C.",
+      "theme": "Symbols and History",
+      "description": "Meet famous places that tell the story of the nation.",
+      "landmarks": [
+        {
+          "name": "White House",
+          "story": "Big Cat stands in front of a big white house where important leaders work.",
+          "mission": "Stand proudly and wave like a leader.",
+          "words": ["white", "house", "leader", "flag"]
+        },
+        {
+          "name": "Lincoln Memorial",
+          "story": "Big Cat looks up at a giant seated statue that feels calm, strong, and wise.",
+          "mission": "Sit still like a statue.",
+          "words": ["statue", "president", "calm", "stone"]
+        },
+        {
+          "name": "Washington Monument",
+          "story": "Big Cat sees a tall pointed monument reaching straight into the sky.",
+          "mission": "Point up and say, 'So tall!'",
+          "words": ["monument", "tall", "sky", "point"]
+        }
+      ]
+    },
+    {
+      "city": "Vermont",
+      "theme": "Nature and Maple Syrup",
+      "description": "Travel through forests, mountains, and sweet maple adventures.",
+      "landmarks": [
+        {
+          "name": "Maple Tree Forest",
+          "story": "Big Cat walks through red and orange leaves and finds sweet maple trees.",
+          "mission": "Flutter down like a falling leaf.",
+          "words": ["tree", "leaf", "forest", "fall"]
+        },
+        {
+          "name": "Maple Syrup Farm",
+          "story": "Big Cat watches sap drip slowly and turn into golden syrup.",
+          "mission": "Pretend to pour syrup on pancakes.",
+          "words": ["maple", "syrup", "sweet", "farm"]
+        },
+        {
+          "name": "Mountain Trail",
+          "story": "Big Cat hikes up a trail and breathes cool, fresh mountain air.",
+          "mission": "March uphill with strong steps.",
+          "words": ["mountain", "trail", "climb", "fresh"]
+        }
+      ]
+    },
+    {
+      "city": "Minnesota",
+      "theme": "Lakes and Winter Adventure",
+      "description": "Explore a cool northern place full of lakes, snow, and outdoor fun.",
+      "landmarks": [
+        {
+          "name": "Frozen Lake",
+          "story": "Big Cat sees a lake sparkling like glass under the cold winter sky.",
+          "mission": "Slide gently like you are skating.",
+          "words": ["lake", "ice", "cold", "winter"]
+        },
+        {
+          "name": "Snowy Forest",
+          "story": "Snow falls softly as Big Cat tiptoes through the quiet white woods.",
+          "mission": "Catch pretend snowflakes in your hands.",
+          "words": ["snow", "forest", "white", "quiet"]
+        },
+        {
+          "name": "Winter Cabin",
+          "story": "Inside the warm cabin, Big Cat feels cozy after the chilly outdoor adventure.",
+          "mission": "Wrap your arms around yourself and say, 'Cozy!'",
+          "words": ["cabin", "warm", "fire", "cozy"]
+        }
+      ]
+    },
+    {
+      "city": "Alaska",
+      "theme": "Ice, Animals, and the Great Wild",
+      "description": "Journey to a giant snowy land with glaciers and amazing animals.",
+      "landmarks": [
+        {
+          "name": "Glacier",
+          "story": "Big Cat stares at a giant wall of blue ice that glows in the sunlight.",
+          "mission": "Freeze like a glacier statue.",
+          "words": ["ice", "blue", "glacier", "cold"]
+        },
+        {
+          "name": "Polar Bear Land",
+          "story": "Big Cat spots a fluffy polar bear walking carefully across the snow.",
+          "mission": "Walk slowly like a big polar bear.",
+          "words": ["polar bear", "snow", "white", "animal"]
+        },
+        {
+          "name": "Northern Lights",
+          "story": "At night, colorful lights dance across the sky like magic ribbons.",
+          "mission": "Wave scarves or arms like dancing lights.",
+          "words": ["sky", "light", "color", "night"]
+        }
+      ]
+    },
+    {
+      "city": "Hollywood",
+      "theme": "Movies and Dreams",
+      "description": "Step into a world of stars, cameras, and movie magic.",
+      "landmarks": [
+        {
+          "name": "Hollywood Sign",
+          "story": "Big Cat looks up at giant white letters standing proudly on the hill.",
+          "mission": "Make a big pose and smile like a star.",
+          "words": ["sign", "hill", "star", "movie"]
+        },
+        {
+          "name": "Movie Studio",
+          "story": "Cameras roll, lights shine, and Big Cat pretends to be the hero of a new film.",
+          "mission": "Say, 'Action!' and strike a pose.",
+          "words": ["camera", "action", "movie", "studio"]
+        },
+        {
+          "name": "Walk of Fame",
+          "story": "Big Cat follows the shiny stars on the ground and dreams of becoming famous.",
+          "mission": "Walk carefully from star to star.",
+          "words": ["star", "walk", "fame", "dream"]
+        }
+      ]
+    }
+  ]
+}
